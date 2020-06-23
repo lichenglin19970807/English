@@ -2,6 +2,7 @@
 
 1. Grammer
 2. S Vt O
+3. 其他简单句
 
 ---
 
@@ -106,4 +107,68 @@
 
   *I find it difficult to say sorry.*
 
+  *Your wife's rocking body still drives me crazy.*
+
 ---
+
+# 3-其他简单句
+
+- S Vi
+  
+  *You jump, I jump.*
+
+  *Fight, you may die. Run, you will live.*
+
+- S Vi prep. O
+
+  prep. = pre-position
+
+  at 点定位
+
+  on 平面定位
+
+  in 空间定位
+
+  for 目的, 时间长度
+
+  during 时间段
+
+  to, from, toward 方向定位
+
+  through 穿过
+
+  by 通过某种方式
+
+  1. 抽离 Vi prep. 动介短语(动词短语)
+     
+     *Look. -> Look at me.*
+
+     *Everybody waits. -> Everybody waits for something.*
+
+  2. 抽离 prep. O 介宾短语(作为定语, 状语, 表语)
+
+     *作为定语 -> That is Bank of China.*
+
+     *作为状语 -> Do it at this moment.*
+
+     *作为表语 -> It's on me.*
+
+- Pron. 宾格 反身代词
+
+  I    -> me   -> myself
+
+  you  -> you  -> youself
+
+  he   -> him  -> himself
+
+  she  -> her  -> herself
+
+  we   -> us   -> ourselves
+
+  they -> them -> themselves
+
+  *Look at youself in a mirror.*
+
+---
+
+
