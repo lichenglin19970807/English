@@ -3,6 +3,7 @@
 1. Grammer
 2. S Vt O
 3. 其他简单句
+4. 简单陈述句的语序
 
 ---
 
@@ -171,4 +172,14 @@
 
 ---
 
+# 4-简单陈述句的语序
 
+- (When) + S + action + O + How + Where + When
+
+  *This morning the machine ate my card suddenly at a supermarket.*
+
+  *The world population grew dramatically between 1950 and 2005.*
+
+  *Sales of coffee showed a slight increase between 2004 and 2006.*
+
+---
