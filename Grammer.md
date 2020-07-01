@@ -183,3 +183,69 @@
   *Sales of coffee showed a slight increase between 2004 and 2006.*
 
 ---
+
+# 5-主系表
+
+- 系动词
+
+  be动词, 感官动词(look, feel, taste, sound, seem)
+
+- be动词时态
+
+  一般现在: am, is, are
+
+  过去: was, were
+
+  现在完成: have been('ve been), has been('s been)
+
+  一般将来: will be('ll be)
+
+- 表语的构成
+
+  1. adj
+
+     *Your English is cool/ perfect/ beautiful.*
+
+  2. n
+   
+     *I am a lucky dog. *
+
+     *Today is a gift.*
+
+     *That's the truth.*
+
+  3. pron
+
+     *The dog is mine.*
+
+     *You are somebody/ nobody.*
+
+  4. prep/ 介宾短语
+
+     *I am in.*
+
+     *The TV is on.*
+
+     *I am in Shenzhen.*
+     
+     *The gift is for you.*
+
+     *It's on me.*
+
+  5. 非谓语动词doing, done, to do
+
+     *Avatar is amazing.*
+
+     *You look tired.*
+
+     *My short term plan is to get good grades in English course, but my long term plan is to be an expert in Computer Science.*
+
+     *My dream is to travel around world.*
+
+     *My job is to open her eyes.*
+
+  6. 表语从句
+
+     *This is what we do and who we are.*
+
+---
