@@ -39,7 +39,20 @@
   | Qualitative Research | Detailed and descriptive research usually from a small numbers of participants. | Interviews |
   | Mixed Methods | A popular method that combines two or more methods of research | Triangulation of data: the data obtained from one method is cross checked using parallel data from another method. |
   
-  
+  *Analysing Research Methods*
+
+  | Aspect | wh | def. |
+  | ------ | -- | ---- |
+  | Type of Method | How & Why | 1-identify the research method. 2-find if the authors have explained why those methods were the best one to answer the research question. |
+  | Sample size | Who | 1-Size depands on the nature of the research. 2-Surveys should have a large sample size than other methods. 3-Even other methods should not have a very small sample size. 4-The research should justify the reason for a smaller sample size in the limitation. |
+  | Participants | Who | 1-Depending on the nature of the research there should be a balance in gender, age and economic, social and educational backgrounds of participants. 2-Where disparities exist, justification and explanation by the researcher is essential. |
+  | Duration of the Research | When | 1-A longer period of time provides more suitable and rich. |
+  | Geographical Location | Where | 1-The authors should explain exactly where they conducted the research and why that location and not other similar ones was chosen. |
+
+  Limitations are weaknesses or shortfalls in a research method, which could be relates to any or all the 5 analysis factors above.
+
+  Critical thinking skills are required to evaluate the research methodology and decide it’s limitations or strengths. 
+
 - 4-ReferencingSystemIEEE
 - 5-ReadingSkill
 
