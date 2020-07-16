@@ -1,0 +1,1 @@
+this lesson focuses on understanding the different forms of research methods and the various aspects of these methods that should be evaluated when deciding if a piece of research has a strong or weak methodology and as a consequence reliable results.

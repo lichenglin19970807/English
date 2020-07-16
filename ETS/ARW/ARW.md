@@ -15,6 +15,31 @@
 - 1-IntroductionToResearch
 - 2-ReadingJournalArticles
 - 3-EvaluatingResearchMethods
+
+  *Research process*
+
+  1. identify a problem
+  2. do a literature review
+  3. select appropriate research methods
+  4. conduct the research
+  5. collate the data
+  6. analyse and evaluate the data
+  7. prepare and present the findings
+
+  *Types of Research*
+
+  1. primary research
+  2. secondary research
+
+  *Primary Research Methos*
+
+  | Method | def. | How |
+  | ------ | ---- | --- |
+  | Quantitative Research | Focusing on obtaining numbers from a large group of participants. | Surveys with questionnaires |
+  | Qualitative Research | Detailed and descriptive research usually from a small numbers of participants. | Interviews |
+  | Mixed Methods | A popular method that combines two or more methods of research | Triangulation of data: the data obtained from one method is cross checked using parallel data from another method. |
+  
+  
 - 4-ReferencingSystemIEEE
 - 5-ReadingSkill
 
