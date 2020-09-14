@@ -27,11 +27,15 @@
 
      *Water the dog.*
 
+     *My mouth is watering.*
+
      *Email me.*
 
      *Light up the drakness.*
 
   2. 进化 evolution
+
+     源于生活方式的变化
 
      *I want a drink.*
 
