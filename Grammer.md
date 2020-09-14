@@ -64,6 +64,19 @@
      e.g. Avatar turned out to be very successful.
      ```
 
+     ```
+     雅思口语7分标准
+
+     Uses less commom and idiomatic vocabulary and shows some awareness of style and collocation.
+
+     *You can call me Jerry.*
+
+     *I was born in Shenzhen.*
+
+     *Playing football gets me crazy.*
+
+     *I am planning to go aboard and further my study.*
+     ```
 ---
 
 ## 2-S Vt O
